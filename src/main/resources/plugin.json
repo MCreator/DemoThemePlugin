@@ -1,0 +1,14 @@
+{
+  "id": "demo_theme_plugin",
+  "supportedversions": [
+    202400299999,
+    2024002
+  ],
+  "weight": 0,
+  "info": {
+    "name": "MCreator demo theme plugin",
+    "version": "1.0",
+    "description": "Demo plugin to demonstrate a theme plugin structure",
+    "author": "Pylo"
+  }
+}
