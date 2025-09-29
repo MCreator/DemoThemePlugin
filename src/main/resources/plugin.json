@@ -1,8 +1,8 @@
 {
   "id": "demo_theme_plugin",
   "supportedversions": [
-    202400299999,
-    2024002
+    202500399999,
+    2025003
   ],
   "weight": 0,
   "info": {
